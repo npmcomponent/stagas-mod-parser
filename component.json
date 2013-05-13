@@ -1,0 +1,13 @@
+{
+  "name": "mod-parser",
+  "version": "0.0.1",
+  "description": "module (.mod) parser in javascript",
+  "keywords": ["audio","mod","parser"],
+  "author": "stagas",
+  "license": "MIT",
+  "development": {
+    "stagas/audio-process": "*",
+    "stagas/mod-player": "*"
+  },
+  "scripts": ["index.js"]
+}
